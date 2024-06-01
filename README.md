@@ -4,9 +4,10 @@
 I'm a passionate developer interested in exploring the world of software development. I love to learn new technologies and work on exciting projects.
 
 ## Interests
-- Python
+- C
 - Core Java
-- PHP
+- HTML
+- CSS
 
 ## Learning
 I'm currently learning about front-end technologies like HTML and CSS. I'm also diving into Python programming and Core Java Programming.
